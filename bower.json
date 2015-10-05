@@ -1,0 +1,16 @@
+{
+  "name": "reactjs-getting-started",
+  "version": "0.0.1",
+  "authors": [
+    "Lukasz Wolnik <lukaszwolnik@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
